@@ -1,2 +1,2 @@
 # MetaWeb-Consult
-Un cabinet consulting Web3
+Un cabinet consulting Web3.
